@@ -35,7 +35,10 @@ public class Main {
         //Ejercicio14.conversor();
         //Ejercicio15.rellenar();
         //Ejercicio16.encontrar();
-        Ejercicio17.digitos();
+        //Ejercicio17.digitos();
+        //Ejercicio18.matriz();
+        Ejercicio19.antiSimetrica();
+
 
         }
     }
