@@ -38,9 +38,10 @@ public class Main {
         //Ejercicio17.digitos();
         //Ejercicio18.matriz();
         //Ejercicio19.antiSimetrica();
-        Ejercicio20.magico();
-
-
+        //Ejercicio20.magico();
+        //Ejercicio21.contenida();
+        //Ejercicio22.tiempo();
+        Ejercicio23.valores();
 
         }
     }
