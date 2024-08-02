@@ -37,7 +37,9 @@ public class Main {
         //Ejercicio16.encontrar();
         //Ejercicio17.digitos();
         //Ejercicio18.matriz();
-        Ejercicio19.antiSimetrica();
+        //Ejercicio19.antiSimetrica();
+        Ejercicio20.magico();
+
 
 
         }
