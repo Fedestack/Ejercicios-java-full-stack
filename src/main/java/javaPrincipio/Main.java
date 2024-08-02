@@ -41,7 +41,10 @@ public class Main {
         //Ejercicio20.magico();
         //Ejercicio21.contenida();
         //Ejercicio22.tiempo();
-        Ejercicio23.valores();
+        //Ejercicio23.valores();
+        //Ejercicio24.vocal();
+        //Ejercicio25.romano();
+        Ejercicio26.obraSocial();
 
         }
     }
