@@ -75,7 +75,6 @@ están entre el 1 y el 9. */
             System.out.println("El cuadro es magico");
         }else {
         System.out.println("El cuadro no es magico");
-    }
-
+        }
     }
 }
