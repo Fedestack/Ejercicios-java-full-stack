@@ -44,7 +44,13 @@ public class Main {
         //Ejercicio23.valores();
         //Ejercicio24.vocal();
         //Ejercicio25.romano();
-        Ejercicio26.obraSocial();
+        //Ejercicio26.obraSocial();
+        //Ejercicio27.altura();
+        Ejercicio28.promedio();
+
+
+
+
 
         }
     }
