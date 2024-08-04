@@ -46,8 +46,17 @@ public class Main {
         //Ejercicio25.romano();
         //Ejercicio26.obraSocial();
         //Ejercicio27.altura();
-        Ejercicio28.promedio();
-
+        //Ejercicio28.promedio();
+        //Ejercicio29.multiplo();
+        //Ejercicio30.restas();
+        //Ejercicio31.adivinar();
+        //Ejercicio32.largo();
+        //Ejercicio33.sustitucion();
+        //Ejercicio34.escala();
+        //Ejercicio35.promedioEdad();
+        //Ejercicio36.calculadora();
+        //Ejercicio37.personas();
+        Ejercicio38.primo();
 
 
 
