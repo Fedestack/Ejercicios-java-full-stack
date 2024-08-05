@@ -56,7 +56,9 @@ public class Main {
         //Ejercicio35.promedioEdad();
         //Ejercicio36.calculadora();
         //Ejercicio37.personas();
-        Ejercicio38.primo();
+        //Ejercicio38.primo();
+        //Ejercicio39.sumaVector();
+        Ejercicio40.vectoresIguales();
 
 
 

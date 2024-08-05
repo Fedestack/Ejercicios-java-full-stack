@@ -1,5 +1,7 @@
 package javaPrincipio.ejercicios;
 
+import org.w3c.dom.ls.LSOutput;
+
 import java.util.Scanner;
 
 public class Ejercicio38 {
@@ -18,8 +20,23 @@ El primer número primo es 2, y hay 25 números primos entre 1 y 100, ellos son:
     public static void primo(){
         Scanner sc = new Scanner(System.in);
 
+    System.out.println("Ingrese un numero");
+    int numero = sc.nextInt();
 
-
+        if (numeroPrimo(numero)) {
+            System.out.println("El numero " + numero + " es primo");
+        } else {
+            System.out.println("El numero NO " + numero + " es primo");
+        }
     }
 
+    public static boolean numeroPrimo(int numero) {
+    int contador = 0;
+    for (int i = 1; i <= numero; i++) {
+        if (numero % i == 0) {
+        contador++;
+        }
+    }
+    return contador == 2;
+}
 }
