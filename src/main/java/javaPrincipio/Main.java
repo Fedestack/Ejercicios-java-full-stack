@@ -58,8 +58,11 @@ public class Main {
         //Ejercicio37.personas();
         //Ejercicio38.primo();
         //Ejercicio39.sumaVector();
-        Ejercicio40.vectoresIguales();
-
+        //Ejercicio40.vectoresIguales();
+        //Ejercicio41.rellenar();
+        //Ejercicio42.alumnos();
+        //Ejercicio43.matriz();
+        Ejercicio44.sopaDeLetras();
 
 
 
