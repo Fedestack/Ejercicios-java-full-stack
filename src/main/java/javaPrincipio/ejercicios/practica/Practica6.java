@@ -1,4 +1,4 @@
-package javaPrincipio.practica;
+package javaPrincipio.ejercicios.practica;
 
 import java.util.Scanner;
 

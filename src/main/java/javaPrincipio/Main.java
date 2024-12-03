@@ -3,6 +3,8 @@ package javaPrincipio;
 
 import javaPrincipio.ejercicios.*;
 
+import static javaPrincipio.ejercicios.practica.AdivinaNumero.adivinarNumero;
+
 public class Main {
     public static void main(String[] args) {
 
@@ -49,7 +51,7 @@ public class Main {
         //Ejercicio28.promedio();
         //Ejercicio29.multiplo();
         //Ejercicio30.restas();
-        //Ejercicio31.adivinar();
+         //Ejercicio31.adivinar();
         //Ejercicio32.largo();
         //Ejercicio33.sustitucion();
         //Ejercicio34.escala();
@@ -62,8 +64,9 @@ public class Main {
         //Ejercicio41.rellenar();
         //Ejercicio42.alumnos();
         //Ejercicio43.matriz();
-        Ejercicio44.sopaDeLetras();
-
+        //Ejercicio44.sopaDeLetras();
+        //Ejercicio45.fibonacci();
+       adivinarNumero();
 
 
         }
